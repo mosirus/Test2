@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GitHubFun</string>
+    <string name="slogan">Dunia Untuk Membangun Software</string>
+    <string name="hint_search">Cari</string>
+    <string name="repository"> %d Proyek</string>
+    <string name="followers"> %d Pengikut</string>
+    <string name="following"> %d Diikuti</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Diikuti</string>
+    <string name="settings">Pengaturan</string>
+    <string name="nodata">User Tidak Ditemukan</string>
+    <string name="favorite">Favorite</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="nofavorite">User Favorite Anda Kosong</string>
+    <string name="userFavorite">User Favorite</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="time_daily">Pengingat Setiap Pukul 9.00 AM Untuk Kembali Ke Aplikasi</string>
+    <string name="change_languange">Ganti Bahasa</string>
+    <string name="message_reminder"> Temukan Developer Keren Kesukaanmu di GithubFun</string>
+</resources>
